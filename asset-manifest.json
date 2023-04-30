@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/onyok/static/css/main.239872c7.css",
+    "main.js": "/onyok/static/js/main.c2f5df94.js",
+    "static/js/787.13f6f7c7.chunk.js": "/onyok/static/js/787.13f6f7c7.chunk.js",
+    "static/media/gif.gif": "/onyok/static/media/gif.fb06f8994a66e9b34e88.gif",
+    "index.html": "/onyok/index.html",
+    "main.239872c7.css.map": "/onyok/static/css/main.239872c7.css.map",
+    "main.c2f5df94.js.map": "/onyok/static/js/main.c2f5df94.js.map",
+    "787.13f6f7c7.chunk.js.map": "/onyok/static/js/787.13f6f7c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.239872c7.css",
+    "static/js/main.c2f5df94.js"
+  ]
+}
